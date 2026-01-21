@@ -41,3 +41,5 @@ SQL, Python(Pandas, NumPy, SciPy, Seaborn, MatPlotLib, Math, Streamlit, Dash) Ta
 - 📬 You can find me here:
 e-mail: saci9502@hotmail.com
 linkedIn: https://www.linkedin.com/in/ian-sal/
+
+Thank you for the interest!
