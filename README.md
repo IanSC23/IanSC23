@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**IanSC23/IanSC23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   <img width="1584" height="396" alt="linkedIn_banner" src="https://github.com/user-attachments/assets/19addb15-1246-4fe3-8b34-efafa17f4486" />
 
